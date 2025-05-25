@@ -1,6 +1,6 @@
 package homework;
 
-public class Telefon {
+public abstract class Telefon {
     // De facut un exempli oop asemanator cu exemplul din cursș
     // Trebuie sa folosim :
     // mostenire;
