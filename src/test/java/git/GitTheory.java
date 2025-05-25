@@ -1,6 +1,7 @@
 package git;
 
 public class GitTheory {
+
     // DESPRE GIT
 
     // Git = un sistem distribuit de control al versiunilor;
